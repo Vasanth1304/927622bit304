@@ -1,4 +1,4 @@
-# Number Window Average Service
+# Average Calculator
 
 ## 📌 Project Overview
 
